@@ -10,7 +10,7 @@
 ### Tools
 Figma, Adobe Apps.
 
-## Languages
+### Languages
 Fluent English.
 Elementary French.
 
