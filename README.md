@@ -7,6 +7,13 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
 
+### Tools
+Figma, Adobe Apps.
+
+## Languages
+Fluent English.
+Elementary French.
+
 
 ##
 
