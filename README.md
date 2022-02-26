@@ -11,7 +11,7 @@
 Figma, Adobe Apps.
 
 ### Languages
-Fluent English.
+High advanced English.
 Elementary French.
 
 
