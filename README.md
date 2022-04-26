@@ -1,18 +1,6 @@
 ## Welcome, visitor!
 
-• 👋 I'm a Information Systems student at the UFRPE, currently working with Marketing and Ecommerce and studying to make my career transition to Software Development.
-
-### Technologies
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="html" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-
-### Tools
-Figma, Adobe Apps.
-
-### Languages
-High advanced English.
-Elementary French.
+• 👋 I'm a Information Systems student at the UFRPE, currently working with Marketing and Ecommerce and studying to make my career transition to Software Development. I have some projects in HTML, CSS and JavaScript, but I'm studying other technologies like NodeJS and Java too. I am always looking foward to improve my logical thinking and algorithmic skills because I understand that regardless of the language you work with, the way you think changes everything.
 
 
 ##
