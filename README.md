@@ -1,6 +1,6 @@
 ## Welcome, visitor!
 
-• 👋 I'm a Information Systems student at the UFRPE, currently working with Marketing and Ecommerce and studying to make my career transition to Software Development. I have some projects in HTML, CSS and JavaScript, but I'm studying other technologies like NodeJS and Java too. I am always looking foward to improve my logical thinking and algorithmic skills because I understand that regardless of the language you work with, the way you think changes everything.
+• 👋 I'm a Information Systems student at the UFRPE, currently working with Marketing and Ecommerce and studying to make my career transition to Software Development. I have some projects in HTML, CSS and JavaScript, but I'm studying other technologies like NodeJS and Java too. I am always looking foward to improve my logical thinking and algorithmic skills because I understand that regardless of the language you work with, the way you think-and-act changes everything.
 
 
 ##
