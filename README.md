@@ -3,7 +3,7 @@
 
 - 👩‍💻 Studying Web Development
 - 📚 Majoring in Information Systems at the UFRPE
-- 📍 Always improving my logical thinking and algorithmic skills. Regardless of the language you work with, the way you think-and-act changes everything! 
+- 📍 Always improving my logical thinking and algorithmic and data structure skills because regardless of the language you work with, I believe that the way you think and solve problems changes everything! 
 
 <h3 align="center">Where you can find me 👇</h3>
 <div align="center">
