@@ -1,9 +1,8 @@
 # Welcome, visitor! 🤗
 ### I'm Maria Luisa, but you can call me Malu.
 
-- 👩‍💻 Studying Web Development
+- 👩‍💻 Studying Web Development, currently React and NodeJS
 - 📚 Majoring in Information Systems at the UFRPE
-- 📍 Always improving my logical thinking and algorithmic and data structure skills because regardless of the language you work with, I believe that the way you think and solve problems changes everything! 
 
 <h3 align="center">Where you can find me 👇</h3>
 <div align="center">
