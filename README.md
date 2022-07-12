@@ -1,7 +1,7 @@
 # Welcome, visitor! 🤗
 ### I'm Maria Luisa, but you can call me Malu.
 
-- 👩‍💻 Front End Developer
+- 👩‍💻 Web Developer
 - 📚 Majoring in Information Systems at the UFRPE
 
 ## Tech Stack
