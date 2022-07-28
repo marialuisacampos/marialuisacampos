@@ -1,12 +1,12 @@
-### Hi! I'm Malu! Welcome to my profile
+### Hello, I'm Malu! Welcome to my profile
 <hr>
 
-<p><em>Information Systems student at <a target="_blank" href="http://ufrpe.br/">UFRPE</a> <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"></br>Junior Front End Developer looking for my first opportunity <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<div align="center">
+<p><em>Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Information Systems student at <a target="_blank" href="http://ufrpe.br/">UFRPE</a> <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"> 
+</br>Motivated by improving inclusion and diversity and impacting people's lives through technology.</em></p>
 
-<a href="https://www.linkedin.com/in/beatriz-schwartz/">
-  <img align="left" alt="Beatriz's LinkdeIN" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a> </br>
+
+[![Linkedin: marialuisacampos](https://img.shields.io/badge/-marialuisacampos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marialuisacampos/)](https://www.linkedin.com/in/marialuisacampos/)
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,11 +24,8 @@
 
 
 ##
-
-<div align="center">
   <a href="https://github.com/marialuisacampos">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marialuisacampos&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marialuisacampos&layout=compact&langs_count=7&theme=omni"/>
-</div>
   
-
+</div>
