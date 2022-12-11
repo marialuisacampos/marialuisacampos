@@ -3,7 +3,7 @@
 
 <div align="center">
 <p><em>Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Majoring in Information Systems at the <a target="_blank" href="http://ufrpe.br/">UFRPE</a> <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"> 
-</br>Motivated by improving inclusion and diversity and impacting people's lives through technology.</br></br>📍 Currently a Software Developer Intern at <a target="_blank" href="https://vetta.digital/">Vetta</a>, working mainly with ReactJS, TypeScript and .NET6</em></p>
+</br>Motivated by improving inclusion and diversity and impacting people's lives through technology.</br></br>📍 Currently a Software Developer at <a target="_blank" href="https://vetta.digital/">Vetta</a>, working mainly with ReactJS and TypeScript.</em></p>
 
 
 [![Linkedin: marialuisacampos](https://img.shields.io/badge/-marialuisacampos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marialuisacampos/)](https://www.linkedin.com/in/marialuisacampos/)
