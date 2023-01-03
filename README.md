@@ -3,10 +3,11 @@
 
 <div align="center">
 <p><em>Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Majoring in Information Systems at the <a target="_blank" href="http://ufrpe.br/">UFRPE</a> <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"> 
-</br>Motivated by improving inclusion and diversity and impacting people's lives through technology.</br></br>📍 Currently a Software Developer at <a target="_blank" href="https://vetta.digital/">Vetta</a>, working mainly with ReactJS and TypeScript.</em></p>
+</br>Motivated by improving inclusion and diversity and impacting people's lives through technology.</br></br>📍 Currently a Junior Front End at <a target="_blank" href="https://vetta.digital/">Vetta</a>, with the SMS Group, working mainly with ReactJS and TypeScript.</em></p>
 
 
 [![Linkedin: marialuisacampos](https://img.shields.io/badge/-marialuisacampos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marialuisacampos/)](https://www.linkedin.com/in/marialuisacampos/)
+[![Portfolio](https://img.shields.io/badge/-portfolio-ff69b4?style=flat-square&link=https://marialuisacampos.vercel.app)](https://marialuisacampos.vercel.app/)
 
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +20,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
 ##
