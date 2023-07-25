@@ -2,7 +2,7 @@
 <hr>
 
 <div align="center">
-<p><em>Junior Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Majoring in Information Systems at the <a target="_blank" href="http://ufrpe.br/">UFRPE</a> <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"> 
+<p><em>Curious Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Majoring in Information Systems at the <a target="_blank" href="http://ufrpe.br/">UFRPE</a> <img src="https://media2.giphy.com/media/SUEN0j6R09jeEriEWr/giphy.gif?cid=ecf05e47f4f5jrf5a45vtjw830ten75mii34yk8rc7h099mv&rid=giphy.gif" width="25"> 
 </br>Motivated by improving inclusion and diversity and impacting people's lives through technology.</br></br>📍 Currently a Software Developer at <a target="_blank" href="https://vetta.digital/">Vetta</a>, with the SMS Group, working mainly with ReactJS (TypeScript) and .NET</em></p>
 
 
